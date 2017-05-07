@@ -21,13 +21,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <plugins>
-<plugin>
-<groupid>org.apache.maven.plugins</groupid>
-<artifactid>maven-resources-plugin</artifactid>
-<version>2.4.2</version>
-</plugin>
-</plugins>
   <build>
     <finalName>CMADSession</finalName>
   </build>
