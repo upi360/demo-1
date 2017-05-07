@@ -19,15 +19,15 @@
       <artifactId>junit</artifactId>
       <version>4.12</version>
       <scope>test</scope>
-      <plugins>
+    </dependency>
+  </dependencies>
+  <plugins>
 <plugin>
 <groupid>org.apache.maven.plugins</groupid>
 <artifactid>maven-resources-plugin</artifactid>
 <version>2.4.2</version>
 </plugin>
 </plugins>
-    </dependency>
-  </dependencies>
   <build>
     <finalName>CMADSession</finalName>
   </build>
